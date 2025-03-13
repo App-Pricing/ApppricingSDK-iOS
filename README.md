@@ -24,7 +24,7 @@ Visit the [App Pricing](https://apppricing.com) to manage your pricing strategie
 
 There's an example app that you can explore for further integration details:
 
-[AppPricing-iOS](https://github.com/apppricingsdk/AppPricing-iOS)
+[AppPricing-iOS](https://github.com/App-Pricing/AppPricing-iOS)
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ AppPricingSDK-iOS only supports Swift Package Manager.
 1. **Add a Swift Package File**
    - In your Xcode project, go to **File** > **Swift Packages** > **Add Package Dependency**.
 1. **Enter Package Repository URL**
-   - https://github.com/apppricingsdk/ApppricingSDK-iOS
+   - https://github.com/App-Pricing/ApppricingSDK-iOS
 1. **Select fetched package**
 1. **Click on the **Next** button to proceed and choose the target, which should be using the dependency**
 1. **Integrate package**
